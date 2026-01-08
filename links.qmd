@@ -1,0 +1,18 @@
+---
+title: "Resources"
+---
+
+This page collects links to resources useful to Italian researchers in Extreme Value Statistics. 
+
+Interesting resources about extremes are: 
+
+- [Next EVA conference](https://hecsciencesdecision.github.io/eva2027/)
+- One World Extreme [Extremes seminars](https://sites.google.com/view/ow-extremes/)
+- [GLEN](https://glen-scotland.github.io/glen/): a sister network on extremes 
+- [Extremes](https://link.springer.com/journal/10687) Journal 
+- CRAN Extreme Value Analysis [Task View](https://cran.r-project.org/web/views/ExtremeValue.html)
+
+Useful links  for Italian Statisticians: 
+
+- [SIS](https://www.sis-statistica.it/) (Società Italiana di Statistica, Italian Statistical Society)
+

@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "CIRCE"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: meetings/index.qmd
+        text: Events
+      # - href: people.qmd
+      #   text: Partecipants
+      - href: links.qmd
+        text: Resources
+      
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    toc_smooth_scroll: true
+    toc_highlight: true
+
+

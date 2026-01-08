@@ -1,0 +1,9 @@
+---
+title: "SIS 2026 Session - Rome"
+description: "Session at the SIS-FENStatS Conference"
+meeting-date: "2026-06-23"
+categories: [External]
+---
+
+Session on _Advances in Extreme Value Modeling_ at [SIS-FENStats](https://sis2026.sis-statistica.it/) conference 22-25 June 2026.  
+

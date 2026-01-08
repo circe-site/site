@@ -1,0 +1,22 @@
+---
+title: "CIRCE"
+---
+
+CIRCE (Community of Italian Researchers Connecting on Extreme Value Statistics). 
+
+<br> 
+
+## Aim and community coordinators 
+
+The aim of the community is to create a space for Italian researchers interested in Extreme Value Statistics to network and interact. It was established in January 2026 during the [first CIRCE meeting](meetings/meeting20060126.qmd). 
+
+Currently the Community is coordinated by 
+
+- [Simone Padoan](https://dec.unibocconi.eu/faculty/simone-padoan)
+- [Ilaria Prosdocimi](https://www.unive.it/data/people/19166744)
+- [Luca Trapin](https://sites.google.com/site/lucatrapin/home)
+
+
+## How to join  
+
+You can email any of the coordinators to be added to the community.  
