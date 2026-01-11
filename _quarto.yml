@@ -10,8 +10,8 @@ website:
         text: Home
       - href: meetings/index.qmd
         text: Events
-      # - href: people.qmd
-      #   text: Partecipants
+      - href: people.qmd
+        text: Members
       - href: links.qmd
         text: Resources
       
