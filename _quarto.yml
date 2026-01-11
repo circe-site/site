@@ -8,10 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: meetings/index.qmd
-        text: Events
       - href: people.qmd
         text: Members
+      - href: meetings/index.qmd
+        text: Events
       - href: links.qmd
         text: Resources
       
