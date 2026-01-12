@@ -12,7 +12,7 @@ p {
 /* Workshop program table column widths */
 .program-table th:nth-child(1),
 .program-table td:nth-child(1) {
-  width: 5%;
+  width: 20%;
   white-space: nowrap;
 }
 
@@ -23,5 +23,5 @@ p {
 
 .program-table th:nth-child(3),
 .program-table td:nth-child(3) {
-  width: 25%;
+  width: 10%;
 }
