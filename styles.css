@@ -1,10 +1,12 @@
 /* css styles */
 
 strong, b {
-  font-weight: 700;
+  font-weight: 800;
+  color: inherit;
 }
 
+
 p {
-  margin-bottom: 0.8rem;
+  margin-bottom: 1rem;
 }
 
