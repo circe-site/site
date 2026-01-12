@@ -5,10 +5,12 @@ meeting-date: "2026-01-26"
 categories: [CIRCE]
 ---
 
-**Date:** 26 January 2025
-**Location: Bocconi University (Aula 205, Via Sarfatti 25) 
+**Date:** 26 January 2025  
+
+**Location:** Bocconi University (Aula 205, Via Sarfatti 25)
 
 **Program**
+
 | Time | Session | Discussant |
 |:---:|:---|:---|
 | 09:45 – 10:10 | **Registration & Opening** | |
@@ -24,6 +26,6 @@ categories: [CIRCE]
 | 16:00 – 16:40 | Matteo Schiavone<br>*TBD* | Fabrizio Laurini |
 | 16:40 – 17:00 | **Closing remarks** | |
 
-**Contact:** send an email to luca.trapin@unibo.it if you want to join.
+: {.striped .hover}
 
-:  {.striped .hover}
+**Contact:** send an email to luca.trapin@unibo.it if you want to join.
