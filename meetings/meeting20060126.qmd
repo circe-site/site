@@ -5,23 +5,25 @@ meeting-date: "2026-01-26"
 categories: [CIRCE]
 ---
 
-The meeting will take place in Milan at Bocconi University (Aula 205, Via Sarfatti 25) on 26 January 2025. If you are interested in joining contact Luca Trapin. 
+**Date:** 26 January 2025
+**Location: Bocconi University (Aula 205, Via Sarfatti 25) 
 
-Tentative schedule for the day
-
+**Program**
 | Time | Session | Discussant |
 |:---:|:---|:---|
 | 09:45 – 10:10 | **Registration & Opening** | |
-| 10:10 – 10:50 | David Carl | Marco Bee |
-| 10:50 – 11:30 | Carlotta Pacifici | TBA |
+| 10:10 – 10:50 | David Carl<br>*Accurate Bayesian inference for tail risk extrapolation in time series* | Marco Bee |
+| 10:50 – 11:30 | Carlotta Pacifici<br>*Dipping both Toes into Likelihood-Based Inference for Extremes: From Standard to Advanced Methods* | Ilaria Prosdocimi |
 | 11:30 – 11:40 | *Break* | |
-| 11:40 – 12.20 | Nicola Gnecco | Carlo Gaetan |
+| 11:40 – 12.20 | Nicola Gnecco<br>*Extremes of Structural Causal Models* | Carlo Gaetan |
 | 12:20 – 14:00 | **Lunch** | |
 | 14:00 – 14:30 | CIRCE Meeting | |
-| 14:30 – 15:10 | Roberta Pappadà | Amir Khorrami |
-| 15:10 – 15:50 | Lorenzo Dell’Oro | Paola Bortot |
+| 14:30 – 15:10 | Roberta Pappadà<br>*TBD* | Amir Khorrami |
+| 15:10 – 15:50 | Lorenzo Dell’Oro<br>*Extended modelling of spatial extremes with Gaussian location-scale mixtures* | Paola Bortot |
 | 15:50 – 16:00 | *Break* | |
-| 16:00 – 16:40 | Matteo Schiavone | Fabrizio Laurini |
+| 16:00 – 16:40 | Matteo Schiavone<br>*TBD* | Fabrizio Laurini |
 | 16:40 – 17:00 | **Closing remarks** | |
+
+**Contact:** send an email to luca.trapin@unibo.it if you want to join.
 
 :  {.striped .hover}
