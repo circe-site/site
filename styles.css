@@ -10,29 +10,40 @@ p {
 }
 
 /* Force table to respect column sizing */
+/* Make the program table respect column widths */
 .program-table {
-  table-layout: fixed;
   width: 100%;
+  table-layout: fixed;
 }
 
+/* Make the Time column narrow */
 .program-table th:nth-child(1),
 .program-table td:nth-child(1) {
-  width: 5%;
+  width: 10%;
   white-space: nowrap;
 }
 
+/* Session column */
 .program-table th:nth-child(2),
 .program-table td:nth-child(2) {
-  width: 75%;
+  width: 70%;
 }
 
+/* Discussant column */
 .program-table th:nth-child(3),
 .program-table td:nth-child(3) {
   width: 20%;
 }
 
-.program-table {
-  margin-bottom: 2rem;
+/* Reduce Bootstrap padding so columns look tighter */
+.program-table th,
+.program-table td {
+  padding: 0.35rem 0.5rem;
 }
+
+.program-table {
+  margin-bottom: 2rem !important;
+}
+
 
 
