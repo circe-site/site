@@ -17,13 +17,13 @@ p {
 
 .program-table th:nth-child(1),
 .program-table td:nth-child(1) {
-  width: 12%;
+  width: 5%;
   white-space: nowrap;
 }
 
 .program-table th:nth-child(2),
 .program-table td:nth-child(2) {
-  width: 68%;
+  width: 75%;
 }
 
 .program-table th:nth-child(3),
