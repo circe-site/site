@@ -15,9 +15,8 @@ format:
 
 <div style="margin-bottom: 2rem;"></div>
 
-### Program
 
-| Time | Session | Discussant |
+| **Time** | **Session** | **Discussant** |
 |:---:|:---|:---|
 | 09:45 – 10:10 | **Registration & Opening** | |
 | 10:10 – 10:50 | David Carl<br>*Accurate Bayesian inference for tail risk extrapolation in time series* | Marco Bee |
