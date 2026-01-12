@@ -5,7 +5,7 @@ meeting-date: "2026-01-26"
 categories: [CIRCE]
 ---
 
-**Date:** 26 January 2025  
+**Date:** 26 January 2026  
 
 **Location:** Bocconi University (Aula 205, Via Sarfatti 25)
 
