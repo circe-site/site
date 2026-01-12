@@ -12,7 +12,10 @@ format:
 
 **Location:** Bocconi University (Aula 205, Via Sarfatti 25)
 
-**Program**
+
+<div style="margin-bottom: 2rem;"></div>
+
+### Program
 
 | Time | Session | Discussant |
 |:---:|:---|:---|
