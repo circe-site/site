@@ -4,13 +4,11 @@ meeting-date: "2026-01-26"
 categories: [CIRCE]
 ---
 
-## Date
-26 January 2026
+**Date:** 26 January 2026
 
-## Location
-Bocconi University (Aula 205, Via Sarfatti 25)
+**Location:** Bocconi University (Aula 205, Via Sarfatti 25)
 
-## Program
+**Program**
 
 | Time | Session | Discussant |
 |:---:|:---|:---|
@@ -28,5 +26,4 @@ Bocconi University (Aula 205, Via Sarfatti 25)
 | 16:40 – 17:00 | **Closing remarks** | |
 : {.striped .hover}
 
-## Contact
-Send an email to <luca.trapin@unibo.it> if you want to join.
+**Contact:** Send an email to <luca.trapin@unibo.it> if you want to join.
