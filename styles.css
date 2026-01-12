@@ -3,6 +3,7 @@
 strong, b {
   font-weight: 900;
   letter-spacing: 0.02em;
+  color: #000;
 }
 
 p {
