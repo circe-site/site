@@ -1,3 +1,7 @@
+format:
+  html:
+    page-layout: full
+
 ---
 title: "CIRCE Meeting 2026 - Milan"
 meeting-date: "2026-01-26"
