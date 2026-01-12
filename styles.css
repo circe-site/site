@@ -2,10 +2,8 @@
 
 strong, b {
   font-weight: 900;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
+  letter-spacing: 0.02em;
 }
-
 
 p {
   margin-bottom: 1rem;
