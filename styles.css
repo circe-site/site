@@ -1,1 +1,10 @@
 /* css styles */
+
+strong, b {
+  font-weight: 700;
+}
+
+p {
+  margin-bottom: 0.8rem;
+}
+
