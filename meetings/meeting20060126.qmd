@@ -1,6 +1,6 @@
 ---
 title: "The first CIRCE Meeting 2026 - Milan"
-description: "Annual CIRCE workshop"
+description: "Annual scientific meeting of CIRCE"
 meeting-date: "2026-01-26"
 categories: [CIRCE]
 format:
