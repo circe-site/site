@@ -1,5 +1,5 @@
 ---
-title: "CIRCE Meeting 2026 - Milan"
+title: "The first CIRCE Meeting 2026 - Milan"
 meeting-date: "2026-01-26"
 categories: [CIRCE]
 format:
@@ -25,7 +25,7 @@ format:
 | 11:40 – 12.20 | Nicola Gnecco<br>*Extremes of Structural Causal Models* | Carlo Gaetan |
 | 12:20 – 14:00 | **Lunch** | |
 | 14:00 – 14:30 | CIRCE Meeting | |
-| 14:30 – 15:10 | Roberta Pappadà<br>*TBD* | Amir Khorrami |
+| 14:30 – 15:10 | Roberta Pappadà<br>*Extremal dependence clustering with spatial constraints* | Amir Khorrami |
 | 15:10 – 15:50 | Lorenzo Dell’Oro<br>*Extended modelling of spatial extremes with Gaussian location-scale mixtures* | Paola Bortot |
 | 15:50 – 16:00 | *Break* | |
 | 16:00 – 16:40 | Matteo Schiavone<br>*TBD* | Fabrizio Laurini |
