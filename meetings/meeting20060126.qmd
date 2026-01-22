@@ -33,5 +33,5 @@ format:
 | 16:00 – 16:40 | Matteo Schiavone<br>*Nonparametric Estimation of the Spectral Density* | Fabrizio Laurini |
 | 16:40 – 17:00 | **Closing remarks** | |
 : {.striped .hover .program-table}
-
+ 
 **Contact:** Send an email to <luca.trapin@unibo.it> if you want to join.
