@@ -4,26 +4,29 @@ project:
 
 website:
   title: "CIRCE"
+  search: false
   navbar:
+    logo: "images/circe_logo_final.jpg"
+    title: false
+    background: white
+    foreground: dark
     left:
-      - href: index.qmd
-        text: Home
+      - href: about.qmd
+        text: About
       - href: people.qmd
         text: Members
       - href: meetings/index.qmd
         text: Events
       - href: links.qmd
         text: Resources
+      - href: contact.qmd
+        text: Contact
       
 
 format:
   html:
     theme: lux
     css: styles.css
-    toc: true
-    toc_depth: 2
-    toc_float: true
-    toc_smooth_scroll: true
-    toc_highlight: true
+    toc: false
 
 

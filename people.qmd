@@ -2,8 +2,9 @@
 title: "Members"
 ---
 
+<div style="height: 1.2rem;"></div>
 
-## Faculty Members
+**Faculty Members**
 
 - [Isadora Antoniano Villalobos](https://www.unive.it/data/persone/20055797) (Ca' Foscari University of Venice)
 - [Marco Bee](https://webapps.unitn.it/du/it/Persona/PER0003397/Curriculum) (University of Trento)
@@ -20,7 +21,9 @@ title: "Members"
 - [Emanuele Taufer](https://webapps.unitn.it/du/it/Persona/PER0003692/Curriculum) (University of Trento)
 - [Luca Trapin](https://www.unibo.it/sitoweb/luca.trapin/) (University of Bologna)
 
-## Early Career Researchers (PhD students and Post-docs)
+<div style="height: 1.2rem;"></div>
+
+**Early-Career Researchers**
 
 - [Ivo Bonfanti](https://www.unibo.it/sitoweb/ivo.bonfanti) (University of Bologna)
 - [David Carl](https://dlcarl.github.io/) (Bocconi University)

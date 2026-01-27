@@ -2,14 +2,14 @@
   {
     "objectID": "meetings/sis200600622.html",
     "href": "meetings/sis200600622.html",
-    "title": "SIS 2026 Session - Rome",
+    "title": "Advances in Extreme Value Modeling - Rome",
     "section": "",
     "text": "Session on Advances in Extreme Value Modeling at SIS-FENStats conference 22-25 June 2026."
   },
   {
     "objectID": "meetings/meeting20060126.html",
     "href": "meetings/meeting20060126.html",
-    "title": "The first CIRCE Meeting 2026 - Milan",
+    "title": "First CIRCE Meeting 2026 - Milan",
     "section": "",
     "text": "Date: 26 January 2026\nLocation: Bocconi University (Aula 205, Via Sarfatti 25)\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nDiscussant\n\n\n\n\n09:45 – 10:10\nRegistration & Opening\n\n\n\n10:10 – 10:50\nDavid CarlAccurate Bayesian inference for tail risk extrapolation in time series\nMarco Bee\n\n\n10:50 – 11:30\nCarlotta PacificiDipping both Toes into Likelihood-Based Inference for Extremes: From Standard to Advanced Methods\nIlaria Prosdocimi\n\n\n11:30 – 11:40\nBreak\n\n\n\n11:40 – 12.20\nNicola GneccoExtremes of Structural Causal Models\nCarlo Gaetan\n\n\n12:20 – 14:00\nLunch\n\n\n\n14:00 – 14:30\nCIRCE Meeting\n\n\n\n14:30 – 15:10\nRoberta PappadàExtremal dependence clustering with spatial constraints\nAmir Khorrami\n\n\n15:10 – 15:50\nLorenzo Dell’OroExtended modelling of spatial extremes with Gaussian location-scale mixtures\nPaola Bortot\n\n\n15:50 – 16:00\nBreak\n\n\n\n16:00 – 16:40\nMatteo SchiavoneTBD\nFabrizio Laurini\n\n\n16:40 – 17:00\nClosing remarks\n\n\n\n\nContact: Send an email to luca.trapin@unibo.it if you want to join."
   },
@@ -18,62 +18,41 @@
     "href": "links.html",
     "title": "Resources",
     "section": "",
-    "text": "This page collects links to resources useful to Italian researchers in Extreme Value Statistics.\nInteresting resources about extremes are:\n\nNext EVA conference\nOne World Extreme Extremes seminars\nGLEN: a sister network on extremes\nExtremes Journal\nCRAN Extreme Value Analysis Task View\n\nUseful links for Italian Statisticians:\n\nSIS (Società Italiana di Statistica, Italian Statistical Society)"
+    "text": "Interesting resources about extremes are:\n\nNext EVA conference\nOne World Extreme Extremes seminars\nGLEN: a sister network on extremes\nExtremes Journal\nCRAN Extreme Value Analysis Task View\n\nUseful links for Italian Statisticians:\n\nSIS (Società Italiana di Statistica, Italian Statistical Society)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "CIRCE",
     "section": "",
-    "text": "CIRCE (Community of Italian Researchers Connecting on Extreme Value Statistics)."
+    "text": "CIRCE is an Italian research network with the aim of fostering collaboration and advancing research in Extreme Value Theory (EVT) and its applications. The community brings together italian researchers working on the theory, methodology, and applications of extreme value statistics. It is open to faculty members, postdoctoral researchers, PhD students, and practitioners interested in extremes."
   },
   {
-    "objectID": "index.html#aim-and-community-coordinators",
-    "href": "index.html#aim-and-community-coordinators",
-    "title": "CIRCE",
-    "section": "Aim and community coordinators",
-    "text": "Aim and community coordinators\nThe aim of the community is to create a space for Italian researchers interested in Extreme Value Statistics to network and interact. It was established in January 2026 during the first CIRCE meeting.\nCurrently the Community is coordinated by\n\nSimone Padoan\nIlaria Prosdocimi\nLuca Trapin"
-  },
-  {
-    "objectID": "index.html#how-to-join",
-    "href": "index.html#how-to-join",
-    "title": "CIRCE",
-    "section": "How to join",
-    "text": "How to join\nYou can email any of the coordinators to be added to the community."
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "CIRCE is an open and inclusive community. Researchers interested in extreme value statistics and related fields are welcome to join and contribute to the network.\nFor general inquiries or to join the community, please contact one of the coordinators:\n\nSimone Padoan\n\nIlaria Prosdocimi\n\nLuca Trapin"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "CIRCE (Community of Italian Researchers Connecting on Extreme Value Statistics).\n\nThe aim of the community is to create a space for Italian researchers interested in Extreme Value Statistics to network and interact. It was established in January 2026\nCurrently the Community is coordinated by\n\nSimone Padoan\nIlaria Prosdocimi\nLuca Trapin"
+    "text": "The main objectives of CIRCE are:\n\nto enhance collaboration among Italian researchers interested in Extreme Value Theory;\nto support early-career researchers through networking and collaborative opportunities;\nto promote italian research in extreme value statistics at the international level.\n\n\n\n\nCIRCE promotes and coordinates a variety of scientific activities:\n\nperiodic workshops and meetings;\nseminars and thematic sessions (also online);\ncollaborative research initiatives and informal working groups;\norganization of conference sessions related to extreme value modeling;\nsharing of resources, references, and teaching material."
   },
   {
     "objectID": "people.html",
     "href": "people.html",
     "title": "Members",
     "section": "",
-    "text": "Isadora Antoniano Villalobos (Ca’ Foscari University of Venice)\nMarco Bee (University of Trento)\nPaola Bortot (University of Bologna)\nNicola Gnecco (Imperial College London)\nCarlo Gaetan (Ca’ Foscari University of Venice)\nAmir Khorrami Chokami (University of Cagliari)\nFabrizio Laurini (University of Parma)\nFrancesco Pauli (University of Trieste)\nSimone Padoan (Bocconi University)\nRoberta Pappada (University of Trieste)\nIlaria Prosdocimi (Ca’ Foscari University of Venice)\nStefano Rizzelli (University of Padua)\nEmanuele Taufer (University of Trento)\nLuca Trapin (University of Bologna)"
-  },
-  {
-    "objectID": "people.html#faculty-members",
-    "href": "people.html#faculty-members",
-    "title": "Members",
-    "section": "",
-    "text": "Isadora Antoniano Villalobos (Ca’ Foscari University of Venice)\nMarco Bee (University of Trento)\nPaola Bortot (University of Bologna)\nNicola Gnecco (Imperial College London)\nCarlo Gaetan (Ca’ Foscari University of Venice)\nAmir Khorrami Chokami (University of Cagliari)\nFabrizio Laurini (University of Parma)\nFrancesco Pauli (University of Trieste)\nSimone Padoan (Bocconi University)\nRoberta Pappada (University of Trieste)\nIlaria Prosdocimi (Ca’ Foscari University of Venice)\nStefano Rizzelli (University of Padua)\nEmanuele Taufer (University of Trento)\nLuca Trapin (University of Bologna)"
-  },
-  {
-    "objectID": "people.html#early-career-researchers-phd-students-and-post-docs",
-    "href": "people.html#early-career-researchers-phd-students-and-post-docs",
-    "title": "Members",
-    "section": "Early Career Researchers (PhD students and Post-docs)",
-    "text": "Early Career Researchers (PhD students and Post-docs)\n\nIvo Bonfanti (University of Bologna)\nDavid Carl (Bocconi University)\nLorenzo Dell’Oro (University of Padua)\nNathan Huet (Ca’ Foscari University of Venice)\nAmerigo Novaro (University of Padua)\nMike Noori (University of Trento)\nCarlotta Pacifici (Bocconi University)\nMassimo Ricci (University of Bologna)\nMatteo Schiavone (University of Padua)\nEmilia Siviero (Ca’ Foscari University of Venice)"
+    "text": "Faculty Members\n\nIsadora Antoniano Villalobos (Ca’ Foscari University of Venice)\nMarco Bee (University of Trento)\nPaola Bortot (University of Bologna)\nNicola Gnecco (Imperial College London)\nCarlo Gaetan (Ca’ Foscari University of Venice)\nAmir Khorrami Chokami (University of Cagliari)\nFabrizio Laurini (University of Parma)\nFrancesco Pauli (University of Trieste)\nSimone Padoan (Bocconi University)\nRoberta Pappada (University of Trieste)\nIlaria Prosdocimi (Ca’ Foscari University of Venice)\nStefano Rizzelli (University of Padua)\nEmanuele Taufer (University of Trento)\nLuca Trapin (University of Bologna)\n\n\n\n\nEarly-Career Researchers\n\nIvo Bonfanti (University of Bologna)\nDavid Carl (Bocconi University)\nLorenzo Dell’Oro (University of Padua)\nNathan Huet (Ca’ Foscari University of Venice)\nAmerigo Novaro (University of Padua)\nMike Noori (University of Trento)\nCarlotta Pacifici (Bocconi University)\nMassimo Ricci (University of Bologna)\nMatteo Schiavone (University of Padua)\nEmilia Siviero (Ca’ Foscari University of Venice)"
   },
   {
     "objectID": "meetings/index.html",
     "href": "meetings/index.html",
-    "title": "CIRCE Events",
+    "title": "Events",
     "section": "",
-    "text": "This is a list of events related to the community\n\n\n\n\n\n\n\n\n\nSIS 2026 Session - Rome\n\n\nSession at the SIS-FENStatS Conference\n\n\n\n\n\n2026-06-23\n\n\n\n\n\n\n\nThe first CIRCE Meeting 2026 - Milan\n\n\nAnnual scientific meeting of CIRCE\n\n\n\n\n\n2026-01-26\n\n\n\n\n\nNo matching items"
+    "text": "Advances in Extreme Value Modeling - Rome\n\n\nSession at the SIS-FENStatS Conference\n\n\n\n\n\n2026-06-23\n\n\n\n\n\n\n\nFirst CIRCE Meeting 2026 - Milan\n\n\nAnnual scientific meeting of CIRCE\n\n\n\n\n\n2026-01-26\n\n\n\n\n\nNo matching items"
   }
 ]
