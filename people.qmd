@@ -26,8 +26,10 @@ title: "Members"
 **Early-Career Researchers**
 
 - [Ivo Bonfanti](https://www.unibo.it/sitoweb/ivo.bonfanti) (University of Bologna)
-- [David Carl](https://dlcarl.github.io/) (Bocconi University)
+- [Viviana Carcaiso](https://scholar.google.com/citations?user=9QG1j3YAAAAJ&hl=en) (INRAE)
+- [David Carl](https://dlcarl.github.io/) (Bocconi University) 
 - [Lorenzo Dell'Oro](https://www.stat.unipd.it/ricerca/lorenzo-delloro) (University of Padua)
+- [Alfedo Gimenez Zapiola](https://mox.polimi.it/people/people-details/?id_staff=100045&nome_staff=Alfredo%20Gimenez%20Zapiola) (Politecnico di Milano)
 - [Nathan Huet](https://www.unive.it/data/people/29085331) (Ca' Foscari University of Venice)
 - [Amerigo Novaro](https://www.linkedin.com/in/amerigo-novaro-19b3a1285/?originalSubdomain=it) (University of Padua)
 - [Mike Noori](https://sites.google.com/view/mikenoori) (University of Trento)
