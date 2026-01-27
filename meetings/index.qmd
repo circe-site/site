@@ -1,5 +1,5 @@
 ---
-title: "CIRCE Events"
+title: "Events"
 listing:
   contents: "." # This tells Quarto to look at all files in this folder
   type: default    # Options: default, grid, or table
@@ -7,7 +7,8 @@ listing:
   fields: [title, meeting-date, description] # Include it in the list
   field-display-names:
     meeting-date: "Date"     # Rename the column header back to "Date"
-  categories: true
+  categories: false
 ---
 
-This is a list of events related to the community 
+
+<div style="height: 1.2rem;"></div>

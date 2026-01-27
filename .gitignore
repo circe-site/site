@@ -4,4 +4,6 @@
 .Ruserdata
 
 /.quarto/
-/.docs/.nojekyll
+**/*.quarto_ipynb
+.DS_Store
+

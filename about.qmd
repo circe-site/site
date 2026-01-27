@@ -2,17 +2,28 @@
 title: "About"
 ---
 
-CIRCE (Community of Italian Researchers Connecting on Extreme Value Statistics). 
 
-<br> 
 
-The aim of the community is to create a space for Italian researchers interested in Extreme Value Statistics to network and interact. It was established in January 2026
+<div style="height: 1.2rem;"></div>
 
-Currently the Community is coordinated by 
 
-- Simone Padoan 
-- Ilaria Prosdocimi 
-- Luca Trapin
+
+The main **objectives** of CIRCE are:
+
+- to enhance collaboration among Italian researchers interested in Extreme Value Theory;
+- to support early-career researchers through networking and collaborative opportunities;
+- to promote italian research in extreme value statistics at the international level.
+
+<div style="height: 1.2rem;"></div>
+
+CIRCE promotes and coordinates a variety of **scientific activities**:
+
+- periodic workshops and meetings;
+- seminars and thematic sessions (also online);
+- collaborative research initiatives and informal working groups;
+- organization of conference sessions related to extreme value modeling;
+- sharing of resources, references, and teaching material.
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "SIS 2026 Session - Rome"
+title: "Advances in Extreme Value Modeling - Rome"
 description: "Session at the SIS-FENStatS Conference"
 meeting-date: "2026-06-23"
 categories: [External]

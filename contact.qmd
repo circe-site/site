@@ -1,0 +1,11 @@
+---
+title: "Contact"
+---
+
+CIRCE is an open and inclusive community. Researchers interested in extreme value statistics and related fields are welcome to join and contribute to the network.
+
+For general inquiries or to join the community, please contact one of the coordinators:
+
+-   [Simone Padoan](https://dec.unibocconi.eu/faculty/simone-padoan)\
+-   [Ilaria Prosdocimi](https://www.unive.it/data/people/19166744)\
+-   [Luca Trapin](https://sites.google.com/site/lucatrapin/home)

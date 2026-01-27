@@ -2,8 +2,6 @@
 title: "Resources"
 ---
 
-This page collects links to resources useful to Italian researchers in Extreme Value Statistics. 
-
 Interesting resources about extremes are: 
 
 - [Next EVA conference](https://hecsciencesdecision.github.io/eva2027/)
