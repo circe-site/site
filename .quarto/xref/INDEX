@@ -25,5 +25,14 @@
   },
   "contact.qmd": {
     "contact.html": "733d8ba6"
+  },
+  "seminars/zhang150526.qmd": {
+    "zhang150526.html": "991868ac"
+  },
+  "seminars/godin100426.qmd": {
+    "godin100426.html": "549b8df9"
+  },
+  "seminars/index_seminars.qmd": {
+    "index_seminars.html": "4abce11d"
   }
 }

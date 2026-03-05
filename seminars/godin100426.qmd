@@ -1,0 +1,26 @@
+---
+title: "GAMEX seminar series"
+description: "Frédéric Godin (Concordia University)"
+meeting-date: "2026-04-10"
+categories: [GAMEX]
+format:
+  html:
+    page-layout: full
+---
+
+**Description:** This online seminar is organized within the [GAMEX project](https://gamex-network.github.io/) with the support of the Glasgow–Edinburgh Extremes Network ([GLE²N](https://glen-scotland.github.io/glen/)) and CIRCE.
+
+**Date:** 10 April 2026
+
+**Time:** 9:30 ET (13:30 UTC / 14:30 BST / 15:30 CEST) 
+
+**Speaker:** Frédéric Godin (Concordia University)  
+
+**Title:**  
+*Catastrophic-risk-aware reinforcement learning with extreme-value-theory-based policy gradients*
+
+**Abstract:**  
+We tackle the problem of mitigating catastrophic risk (which is risk with very low frequency but very high severity) in the context of a sequential decision making process. This problem is particularly challenging due to the scarcity of observations in the far tail of the distribution of cumulative costs (negative rewards). A policy gradient algorithm is developed, that we call POTPG. It is based on approximations of the tail risk derived from extreme value theory. Numerical experiments highlight the out-performance of our method over common benchmarks relying on the empirical distribution. An application to financial risk management, more precisely to the dynamic hedging of a financial option, is presented.
+
+**Access link:**  
+[Join the seminar on Zoom](https://uofglasgow.zoom.us/j/81636158035?pwd=xWBA0kEhExCXHcFjhVPULqcb1dtFke.1)
