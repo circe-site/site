@@ -19,6 +19,8 @@ website:
         text: Members
       - href: meetings/index.qmd
         text: Events
+      - href: seminars/index_seminars.qmd
+        text: Seminars
       - href: links.qmd
         text: Resources
       - href: contact.qmd

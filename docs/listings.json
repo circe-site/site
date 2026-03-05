@@ -1,5 +1,12 @@
 [
   {
+    "listing": "/seminars/index_seminars.html",
+    "items": [
+      "/seminars/zhang150526.html",
+      "/seminars/godin100426.html"
+    ]
+  },
+  {
     "listing": "/meetings/index.html",
     "items": [
       "/meetings/sis200600622.html",
