@@ -1,0 +1,33 @@
+---
+title: "Statistical Reflections"
+description: "Workshop in Venice on Extremes"
+meeting-date: "2026-04-09"
+format:
+  html:
+    page-layout: full
+---
+
+**Description:** An half day workshop on extremes organized by [Ca' Foscari](https://drive.google.com/file/d/1GaAmvj5l4a9qmESfDGz9Q3wuQqgD6_ym/view?usp=sharing) with the support of CIRCE.
+
+**Date:** 09 April 2026
+
+**Time:** 2:00 pm (Venice time)
+
+**Speakers:** Miguel de Carvalho (University of Edinburgh); Philippe Naveau (Laboratoire des Sciences du Climat et de l’Environnement); Simone Padoan (Bocconi University)
+
+
+**Details** 
+
+*On Extremal Vulnerability in Multivariate Extremes*
+
+In many complex systems, identifying the most vulnerable component is essential for effective prevention, intervention, and risk management. In this talk, I will introduce the notion of extremal vulnerability, defined as the long run tendency of a component to be affected by extreme events occurring in other components. The proposed framework builds on the tail dependence matrix and introduces the Extremal Vulnerability Rank (XVRank) method—a PageRank-inspired algorithm designed to quantify extremal vulnerability.  We establish the theoretical properties of the proposed inferences, including consistency and asymptotic normality, and validate their performance through Monte Carlo simulations. The proposed methods are illustrated using financial data to determine assets most exposed to severe market downturns.
+
+*A Kullback--Leibler divergence test for multivariate extremes with applications to environmental data*
+
+Testing whether two multivariate samples exhibit the same extremal behavior is an important problem in various fields including environmental and climate sciences. While several ad-hoc approaches exist in the literature, they often lack theoretical justification and statistical guarantees. On the other hand, extreme value theory provides the theoretical foundation for constructing asymptotically justified tests. We combine this theory with Kullback--Leibler divergence, a fundamental concept in information theory and statistics, to propose a test for equality of extremal dependence structures in practically relevant directions. Under suitable assumptions, we derive the limiting distributions of the proposed statistic under null and alternative hypotheses. Importantly, our test is fast to compute and easy to interpret by practitioners, making it attractive in applications. Simulations and various environmental applications will be covered.
+
+
+*Optimal weighted pooling for inference about the tail index and extreme quantiles*
+
+We investigate pooling strategies for tail index and extreme quantile estimation from heavy-tailed data. To fully exploit the information contained in several samples, we present general weighted pooled Hill estimators of the tail index and weighted pooled Weissman estimators of extreme quantiles calculated through a nonstandard geometric averaging scheme. Our results include optimal choices of pooling weights based on asymptotic variance and MSE minimization. In the important application of distributed inference, we show that the variance-optimal distributed estimators are asymptotically equivalent to the benchmark Hill and Weissman estimators based on the unfeasible combination of subsamples, while the AMSE-optimal distributed estimators enjoy a  smaller AMSE than the benchmarks in the case of large bias. Simulations confirm the statistical inferential theory of our pooled estimators. An application to real weather data is showcased.  
+

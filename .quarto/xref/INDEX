@@ -34,5 +34,8 @@
   },
   "seminars/index_seminars.qmd": {
     "index_seminars.html": "4abce11d"
+  },
+  "meetings/venice_extremes.qmd": {
+    "venice_extremes.html": "d0dff4d3"
   }
 }

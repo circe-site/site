@@ -1,16 +1,17 @@
 [
   {
+    "listing": "/meetings/index.html",
+    "items": [
+      "/meetings/sis200600622.html",
+      "/meetings/venice_extremes.html",
+      "/meetings/meeting20060126.html"
+    ]
+  },
+  {
     "listing": "/seminars/index_seminars.html",
     "items": [
       "/seminars/zhang150526.html",
       "/seminars/godin100426.html"
-    ]
-  },
-  {
-    "listing": "/meetings/index.html",
-    "items": [
-      "/meetings/sis200600622.html",
-      "/meetings/meeting20060126.html"
     ]
   }
 ]
