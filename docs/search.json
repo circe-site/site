@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "seminars/zhang150526.html",
-    "href": "seminars/zhang150526.html",
-    "title": "GAMEX seminar series",
-    "section": "",
-    "text": "Description: This online seminar is organized within the GAMEX project with the support of the Glasgow–Edinburgh Extremes Network (GLE²N) and CIRCE.\nDate: 15 May 2026\nTime: 9:00 CT (14:00 UTC / 15:00 BST / 16:00 CEST)\nSpeaker: Likun Zhang (University of Missouri)\nTitle:\nModeling Spatio-temporal Extremes via Conditional Variational Autoencoders\nAbstract:\nExtreme weather events are widely studied in fields such as agriculture, ecology, and meteorology. The spatio-temporal co-occurrence of extreme events can strengthen or weaken under changing climate conditions. In this paper, we propose a novel approach to model spatio-temporal extremes by integrating climate indices via a conditional variational autoencoder (cXVAE). A convolutional neural network (CNN) is embedded in the decoder to convolve climatological indices with the spatial dependence within the latent space, thereby allowing the decoder to depend on the climate variables. There are three main contributions. First, through extensive simulations, we show that the proposed conditional XVAE accurately emulates spatial fields and recovers spatially and temporally varying extremal dependence with very low computational cost after training. Second, we provide a simple and scalable approach to detecting condition-driven shifts and assessing whether the dependence structure is invariant to the conditioning variable. Third, when dependence is condition-sensitive, the conditional XVAE supports counterfactual experiments by intervening on the climate covariate and propagating the change through the learned decoder to quantify differences in joint tail risk, co-occurrence ranges, and return metrics.We illustrate the methodology by analyzing the monthly maximum Fire Weather Index (FWI) over eastern Australia (2014–2024), conditioned on the El Nino/Southern Oscillation (ENSO) index.\nAccess link: Join the seminar on Zoom"
-  },
-  {
-    "objectID": "seminars/godin100426.html",
-    "href": "seminars/godin100426.html",
-    "title": "GAMEX seminar series",
-    "section": "",
-    "text": "Description: This online seminar is organized within the GAMEX project with the support of the Glasgow–Edinburgh Extremes Network (GLE²N) and CIRCE.\nDate: 10 April 2026\nTime: 9:30 ET (13:30 UTC / 14:30 BST / 15:30 CEST)\nSpeaker: Frédéric Godin (Concordia University)\nTitle:\nCatastrophic-risk-aware reinforcement learning with extreme-value-theory-based policy gradients\nAbstract:\nWe tackle the problem of mitigating catastrophic risk (which is risk with very low frequency but very high severity) in the context of a sequential decision making process. This problem is particularly challenging due to the scarcity of observations in the far tail of the distribution of cumulative costs (negative rewards). A policy gradient algorithm is developed, that we call POTPG. It is based on approximations of the tail risk derived from extreme value theory. Numerical experiments highlight the out-performance of our method over common benchmarks relying on the empirical distribution. An application to financial risk management, more precisely to the dynamic hedging of a financial option, is presented.\nAccess link:\nJoin the seminar on Zoom"
-  },
-  {
     "objectID": "meetings/venice_extremes.html",
     "href": "meetings/venice_extremes.html",
     "title": "Statistical Reflections",
@@ -21,11 +7,25 @@
     "text": "Description: An half day workshop on extremes organized by Ca’ Foscari with the support of CIRCE.\nDate: 09 April 2026\nTime: 2:00 pm (Venice time)\nSpeakers: Miguel de Carvalho (University of Edinburgh); Philippe Naveau (Laboratoire des Sciences du Climat et de l’Environnement); Simone Padoan (Bocconi University)\nDetails\nOn Extremal Vulnerability in Multivariate Extremes\nIn many complex systems, identifying the most vulnerable component is essential for effective prevention, intervention, and risk management. In this talk, I will introduce the notion of extremal vulnerability, defined as the long run tendency of a component to be affected by extreme events occurring in other components. The proposed framework builds on the tail dependence matrix and introduces the Extremal Vulnerability Rank (XVRank) method—a PageRank-inspired algorithm designed to quantify extremal vulnerability. We establish the theoretical properties of the proposed inferences, including consistency and asymptotic normality, and validate their performance through Monte Carlo simulations. The proposed methods are illustrated using financial data to determine assets most exposed to severe market downturns.\nA Kullback–Leibler divergence test for multivariate extremes with applications to environmental data\nTesting whether two multivariate samples exhibit the same extremal behavior is an important problem in various fields including environmental and climate sciences. While several ad-hoc approaches exist in the literature, they often lack theoretical justification and statistical guarantees. On the other hand, extreme value theory provides the theoretical foundation for constructing asymptotically justified tests. We combine this theory with Kullback–Leibler divergence, a fundamental concept in information theory and statistics, to propose a test for equality of extremal dependence structures in practically relevant directions. Under suitable assumptions, we derive the limiting distributions of the proposed statistic under null and alternative hypotheses. Importantly, our test is fast to compute and easy to interpret by practitioners, making it attractive in applications. Simulations and various environmental applications will be covered.\nOptimal weighted pooling for inference about the tail index and extreme quantiles\nWe investigate pooling strategies for tail index and extreme quantile estimation from heavy-tailed data. To fully exploit the information contained in several samples, we present general weighted pooled Hill estimators of the tail index and weighted pooled Weissman estimators of extreme quantiles calculated through a nonstandard geometric averaging scheme. Our results include optimal choices of pooling weights based on asymptotic variance and MSE minimization. In the important application of distributed inference, we show that the variance-optimal distributed estimators are asymptotically equivalent to the benchmark Hill and Weissman estimators based on the unfeasible combination of subsamples, while the AMSE-optimal distributed estimators enjoy a smaller AMSE than the benchmarks in the case of large bias. Simulations confirm the statistical inferential theory of our pooled estimators. An application to real weather data is showcased."
   },
   {
-    "objectID": "meetings/meeting20060126.html",
-    "href": "meetings/meeting20060126.html",
-    "title": "First CIRCE Meeting 2026 - Milan",
+    "objectID": "meetings/index.html",
+    "href": "meetings/index.html",
+    "title": "Events",
     "section": "",
-    "text": "Date: 26 January 2026\nLocation: Bocconi University (Aula 205, Via Sarfatti 25)\n\n\n\n\n\nFirst CIRCE Meeting, Bocconi University – Milan\nProgram (here as pdf)\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nDiscussant\n\n\n\n\n09:45 – 10:10\nRegistration & Opening\n\n\n\n10:10 – 10:50\nDavid CarlAccurate Bayesian inference for tail risk extrapolation in time series\nMarco Bee\n\n\n10:50 – 11:30\nCarlotta PacificiDipping both Toes into Likelihood-Based Inference for Extremes: From Standard to Advanced Methods\nIlaria Prosdocimi\n\n\n11:30 – 11:40\nBreak\n\n\n\n11:40 – 12.20\nNicola GneccoExtremes of Structural Causal Models\nCarlo Gaetan\n\n\n12:20 – 14:00\nLunch\n\n\n\n14:00 – 14:30\nCIRCE Meeting\n\n\n\n14:30 – 15:10\nRoberta PappadàExtremal dependence clustering with spatial constraints\nAmir Khorrami\n\n\n15:10 – 15:50\nLorenzo Dell’OroExtended modelling of spatial extremes with Gaussian location-scale mixtures\nPaola Bortot\n\n\n15:50 – 16:00\nBreak\n\n\n\n16:00 – 16:40\nMatteo SchiavoneNonparametric Estimation of the Spectral Density\nFabrizio Laurini\n\n\n16:40 – 17:00\nClosing remarks\n\n\n\n\nContact: Send an email to luca.trapin@unibo.it if you want to join."
+    "text": "Advances in Extreme Value Modeling - Rome\n\n\nSession at the SIS-FENStatS Conference\n\n\n\n\n\n2026-06-23\n\n\n\n\n\n\n\nStatistical Reflections\n\n\nWorkshop in Venice on Extremes\n\n\n\n\n\n2026-04-09\n\n\n\n\n\n\n\nFirst CIRCE Meeting 2026 - Milan\n\n\nAnnual scientific meeting of CIRCE\n\n\n\n\n\n2026-01-26\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "seminars/index_seminars.html",
+    "href": "seminars/index_seminars.html",
+    "title": "Seminars",
+    "section": "",
+    "text": "GAMEX seminar series\n\n\nLikun Zhang (University of Missouri)\n\n\n\n\n\n2026-05-15\n\n\n\n\n\n\n\nGAMEX seminar series\n\n\nFrédéric Godin (Concordia University)\n\n\n\n\n\n2026-04-10\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "seminars/zhang150526.html",
+    "href": "seminars/zhang150526.html",
+    "title": "GAMEX seminar series",
+    "section": "",
+    "text": "Description: This online seminar is organized within the GAMEX project with the support of the Glasgow–Edinburgh Extremes Network (GLE²N) and CIRCE.\nDate: 15 May 2026\nTime: 9:00 CT (14:00 UTC / 15:00 BST / 16:00 CEST)\nSpeaker: Likun Zhang (University of Missouri)\nTitle:\nModeling Spatio-temporal Extremes via Conditional Variational Autoencoders\nAbstract:\nExtreme weather events are widely studied in fields such as agriculture, ecology, and meteorology. The spatio-temporal co-occurrence of extreme events can strengthen or weaken under changing climate conditions. In this paper, we propose a novel approach to model spatio-temporal extremes by integrating climate indices via a conditional variational autoencoder (cXVAE). A convolutional neural network (CNN) is embedded in the decoder to convolve climatological indices with the spatial dependence within the latent space, thereby allowing the decoder to depend on the climate variables. There are three main contributions. First, through extensive simulations, we show that the proposed conditional XVAE accurately emulates spatial fields and recovers spatially and temporally varying extremal dependence with very low computational cost after training. Second, we provide a simple and scalable approach to detecting condition-driven shifts and assessing whether the dependence structure is invariant to the conditioning variable. Third, when dependence is condition-sensitive, the conditional XVAE supports counterfactual experiments by intervening on the climate covariate and propagating the change through the learned decoder to quantify differences in joint tail risk, co-occurrence ranges, and return metrics.We illustrate the methodology by analyzing the monthly maximum Fire Weather Index (FWI) over eastern Australia (2014–2024), conditioned on the El Nino/Southern Oscillation (ENSO) index.\nAccess link: Join the seminar on Zoom"
   },
   {
     "objectID": "links.html",
@@ -33,6 +33,13 @@
     "title": "Resources",
     "section": "",
     "text": "Interesting resources about extremes are:\n\nNext EVA conference\nOne World Extreme Extremes seminars\nGLEN: a sister network on extremes\nExtremes Journal\nCRAN Extreme Value Analysis Task View\n\nUseful links for Italian Statisticians:\n\nSIS (Società Italiana di Statistica, Italian Statistical Society)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CIRCE",
+    "section": "",
+    "text": "CIRCE is an Italian research network with the aim of fostering collaboration and advancing research in Extreme Value Theory (EVT) and its applications. The community brings together italian researchers working on the theory, methodology, and applications of extreme value statistics. It is open to faculty members, postdoctoral researchers, PhD students, and practitioners interested in extremes."
   },
   {
     "objectID": "contact.html",
@@ -49,27 +56,6 @@
     "text": "The main objectives of CIRCE are:\n\nto enhance collaboration among Italian researchers interested in Extreme Value Theory;\nto support early-career researchers through networking and collaborative opportunities;\nto promote italian research in extreme value statistics at the international level.\n\n\n\n\nCIRCE promotes and coordinates a variety of scientific activities:\n\nperiodic workshops and meetings;\nseminars and thematic sessions (also online);\ncollaborative research initiatives and informal working groups;\norganization of conference sessions related to extreme value modeling;\nsharing of resources, references, and teaching material."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "CIRCE",
-    "section": "",
-    "text": "CIRCE is an Italian research network with the aim of fostering collaboration and advancing research in Extreme Value Theory (EVT) and its applications. The community brings together italian researchers working on the theory, methodology, and applications of extreme value statistics. It is open to faculty members, postdoctoral researchers, PhD students, and practitioners interested in extremes."
-  },
-  {
-    "objectID": "meetings/index.html",
-    "href": "meetings/index.html",
-    "title": "Events",
-    "section": "",
-    "text": "Advances in Extreme Value Modeling - Rome\n\n\n\n\n\nSession at the SIS-FENStatS Conference\n\n\n\n\n\n2026-06-23\n\n\n\n\n\n\n\nStatistical Reflections\n\n\n\n\n\nWorkshop in Venice on Extremes\n\n\n\n\n\n2026-04-09\n\n\n\n\n\n\n\nFirst CIRCE Meeting 2026 - Milan\n\n\n\n\n\nAnnual scientific meeting of CIRCE\n\n\n\n\n\n2026-01-26\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "meetings/sis200600622.html",
-    "href": "meetings/sis200600622.html",
-    "title": "Advances in Extreme Value Modeling - Rome",
-    "section": "",
-    "text": "Session on Advances in Extreme Value Modeling at SIS-FENStats conference 22-25 June 2026."
-  },
-  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "Members",
@@ -77,10 +63,24 @@
     "text": "Faculty Members\n\nIsadora Antoniano Villalobos (Ca’ Foscari University of Venice)\nMarco Bee (University of Trento)\nPaola Bortot (University of Bologna)\nGioia Di Credico (University of Trieste)\nNicola Gnecco (Imperial College London)\nCarlo Gaetan (Ca’ Foscari University of Venice)\nAmir Khorrami Chokami (University of Cagliari)\nFabrizio Laurini (University of Parma)\nGiulia Marcon (University of Palermo)\nFrancesco Pauli (University of Trieste)\nSimone Padoan (Bocconi University)\nRoberta Pappada (University of Trieste)\nIlaria Prosdocimi (Ca’ Foscari University of Venice)\nStefano Rizzelli (University of Padua)\nEmanuele Taufer (University of Trento)\nAndrea Toreti (European Commission Joint Research Centre)\nLuca Trapin (University of Bologna)\n\n\n\n\nEarly-Career Researchers\n\nIvo Bonfanti (University of Bologna)\nViviana Carcaiso (INRAE)\nDavid Carl (Bocconi University)\nLorenzo Dell’Oro (University of Padua)\nAlfedo Gimenez Zapiola (Politecnico di Milano)\nVincenzo Gioia (University of Trieste)\nNathan Huet (Ca’ Foscari University of Venice)\nAmerigo Novaro (University of Padua)\nMike Noori (University of Trento)\nCarlotta Pacifici (Bocconi University)\nMassimo Ricci (University of Bologna)\nMatteo Schiavone (University of Padua)\nEmilia Siviero (Ca’ Foscari University of Venice)"
   },
   {
-    "objectID": "seminars/index_seminars.html",
-    "href": "seminars/index_seminars.html",
-    "title": "Seminars",
+    "objectID": "seminars/godin100426.html",
+    "href": "seminars/godin100426.html",
+    "title": "GAMEX seminar series",
     "section": "",
-    "text": "GAMEX seminar series\n\n\n\n\n\nLikun Zhang (University of Missouri)\n\n\n\n\n\n2026-05-15\n\n\n\n\n\n\n\nGAMEX seminar series\n\n\n\n\n\nFrédéric Godin (Concordia University)\n\n\n\n\n\n2026-04-10\n\n\n\n\n\n\nNo matching items"
+    "text": "Description: This online seminar is organized within the GAMEX project with the support of the Glasgow–Edinburgh Extremes Network (GLE²N) and CIRCE.\nDate: 10 April 2026\nTime: 9:30 ET (13:30 UTC / 14:30 BST / 15:30 CEST)\nSpeaker: Frédéric Godin (Concordia University)\nTitle:\nCatastrophic-risk-aware reinforcement learning with extreme-value-theory-based policy gradients\nAbstract:\nWe tackle the problem of mitigating catastrophic risk (which is risk with very low frequency but very high severity) in the context of a sequential decision making process. This problem is particularly challenging due to the scarcity of observations in the far tail of the distribution of cumulative costs (negative rewards). A policy gradient algorithm is developed, that we call POTPG. It is based on approximations of the tail risk derived from extreme value theory. Numerical experiments highlight the out-performance of our method over common benchmarks relying on the empirical distribution. An application to financial risk management, more precisely to the dynamic hedging of a financial option, is presented.\nAccess link:\nJoin the seminar on Zoom\nPasscode: yRkNi2kr"
+  },
+  {
+    "objectID": "meetings/meeting20060126.html",
+    "href": "meetings/meeting20060126.html",
+    "title": "First CIRCE Meeting 2026 - Milan",
+    "section": "",
+    "text": "Date: 26 January 2026\nLocation: Bocconi University (Aula 205, Via Sarfatti 25)\n\n\n\n\n\nFirst CIRCE Meeting, Bocconi University – Milan\nProgram (here as pdf)\n\n\n\n\n\n\n\n\n\n\n\nTime\nSession\nDiscussant\n\n\n\n\n09:45 – 10:10\nRegistration & Opening\n\n\n\n10:10 – 10:50\nDavid CarlAccurate Bayesian inference for tail risk extrapolation in time series\nMarco Bee\n\n\n10:50 – 11:30\nCarlotta PacificiDipping both Toes into Likelihood-Based Inference for Extremes: From Standard to Advanced Methods\nIlaria Prosdocimi\n\n\n11:30 – 11:40\nBreak\n\n\n\n11:40 – 12.20\nNicola GneccoExtremes of Structural Causal Models\nCarlo Gaetan\n\n\n12:20 – 14:00\nLunch\n\n\n\n14:00 – 14:30\nCIRCE Meeting\n\n\n\n14:30 – 15:10\nRoberta PappadàExtremal dependence clustering with spatial constraints\nAmir Khorrami\n\n\n15:10 – 15:50\nLorenzo Dell’OroExtended modelling of spatial extremes with Gaussian location-scale mixtures\nPaola Bortot\n\n\n15:50 – 16:00\nBreak\n\n\n\n16:00 – 16:40\nMatteo SchiavoneNonparametric Estimation of the Spectral Density\nFabrizio Laurini\n\n\n16:40 – 17:00\nClosing remarks\n\n\n\n\nContact: Send an email to luca.trapin@unibo.it if you want to join."
+  },
+  {
+    "objectID": "meetings/sis200600622.html",
+    "href": "meetings/sis200600622.html",
+    "title": "Advances in Extreme Value Modeling - Rome",
+    "section": "",
+    "text": "Session on Advances in Extreme Value Modeling at SIS-FENStats conference 22-25 June 2026."
   }
 ]
