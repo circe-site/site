@@ -1,9 +1,9 @@
 {
   "listingMap": {
-    "meetings\\index.qmd": [
+    "seminars/index_seminars.qmd": [
       "."
     ],
-    "seminars\\index_seminars.qmd": [
+    "meetings/index.qmd": [
       "."
     ]
   }
