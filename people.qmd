@@ -8,6 +8,7 @@ title: "Members"
 
 - [Isadora Antoniano Villalobos](https://www.unive.it/data/persone/20055797) (Ca' Foscari University of Venice)
 - [Marco Bee](https://webapps.unitn.it/du/it/Persona/PER0003397/Curriculum) (University of Trento)
+<!-- - [Leo Bélzile](https://www.hec.ca/en/profs/leo.belzile.html) (HEC Montréal) -->
 - [Paola Bortot](https://www.unibo.it/sitoweb/paola.bortot) (University of Bologna)
 - [Gioia Di Credico](https://deams.units.it/it/dipartimento/persone/personale-docente?q=it/node/54237) (University of Trieste)
 - [Nicola Gnecco](https://profiles.imperial.ac.uk/n.gnecco) (Imperial College London)

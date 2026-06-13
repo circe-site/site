@@ -5,5 +5,4 @@ meeting-date: "2026-06-23"
 categories: [External]
 ---
 
-Session on _Advances in Extreme Value Modeling_ at [SIS-FENStats](https://sis2026.sis-statistica.it/) conference 22-25 June 2026.  
-
+Session on _Advances in Extreme Value Modeling_ (SPEC14) at [SIS-FENStats](https://sis2026.sis-statistica.it/) conference 22-25 June 2026. The Session will take place On June 25th, 14:15 - 15:45 - Room: Aula D. The speakers of the session are: [Emilia Siviero](https://emiliasiv.github.io/) (Ca' Foscari University of Venice), [Julien Hambuckers](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u162272) (University of Liège) and [Simone Padoan](https://dec.unibocconi.eu/faculty/simone-padoan) (Bocconi University). 
