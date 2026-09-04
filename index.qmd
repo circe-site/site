@@ -3,7 +3,5 @@ title: "CIRCE"
 subtitle: "Community of Italian Researchers Connecting on Extreme Value Statistics"
 ---
 
-CIRCE is an Italian research network with the aim of fostering collaboration and advancing research in **Extreme Value Theory (EVT)** and its applications. The community brings together italian researchers working on the theory, methodology, and applications of extreme value statistics. It is open to **faculty members, postdoctoral researchers, PhD students, and practitioners** interested in extremes.
-
-
+CIRCE is an Italian research network with the aim of fostering collaboration and advancing research in **Extreme Value Theory (EVT)** and its applications. The community brings together Italian researchers working on the theory, methodology, and applications of extreme value statistics. It is open to **faculty members, postdoctoral researchers, PhD students, and practitioners** interested in extremes.
 

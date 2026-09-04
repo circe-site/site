@@ -1,0 +1,22 @@
+---
+title: "First CIRCE School - Padova"
+description: "A two-day winter school on Extreme Value Analysis"
+meeting-date: "2027-01-25"
+categories: [CIRCE]
+format:
+  html:
+    page-layout: full
+---
+
+
+**Date:** 25-26 January 2027
+
+**Location:** University of Padova (Santa Caterina campus)
+
+*A two-day winter school on Extreme Value Analysis*
+
+School instructors: [Simone A. Padoan](https://www.unibocconi.it/en/faculty/simone-padoan), [Stefano Rizzelli](https://homes.stat.unipd.it/stefanorizzelli/en/home-2), [Carlo Gaetan](https://www.unive.it/data/people/5591383)
+
+More information coming soon. 
+
+**Contact:** Send an email to <stefano.rizzelli@unipd.it> if you want to join.

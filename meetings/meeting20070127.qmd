@@ -1,0 +1,21 @@
+---
+title: "Second CIRCE Meeting 2027 - Padova"
+description: "Annual scientific meeting of CIRCE"
+meeting-date: "2027-01-27"
+categories: [CIRCE]
+format:
+  html:
+    page-layout: full
+---
+
+
+**Date:** 27 January 2027
+
+**Location:** University of Padova (Santa Caterina campus)
+
+
+*Second CIRCE Meeting, University of Padova*
+
+More information coming soon. 
+
+**Contact:** Send an email to <stefano.rizzelli@unipd.it> if you want to join.
