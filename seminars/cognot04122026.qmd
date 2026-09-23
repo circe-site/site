@@ -1,0 +1,29 @@
+---
+title: "GAMEX seminar series"
+description: "Caroline Cognot (UCLouvain)"
+meeting-date: "2026-12-04"
+categories: [GAMEX]
+format:
+  html:
+    page-layout: full
+---
+
+**Description:** This online seminar is organized within the [GAMEX project](https://gamex-network.github.io/) with the support of the Glasgow–Edinburgh Extremes Network ([GLE²N](https://glen-scotland.github.io/glen/)) and CIRCE.
+
+**Date:** 4 December 2026
+
+**Time:** 15:30 CET (14:30 UTC / 14:30 GMT)
+
+**Speaker:** Caroline Cognot (UCLouvain)    
+
+**Title:**  
+*TBC*
+
+**Abstract:**  
+TBC
+
+**Access link:** 
+[Join the seminar on Microsoft Teams](https://teams.microsoft.com/meet/349080320615578?p=MrknbOLzIhJmewxAjO)
+
+**Meeting ID:** 349 080 320 615 578  
+**Passcode:** ZL64qq2j
