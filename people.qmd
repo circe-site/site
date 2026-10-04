@@ -39,7 +39,7 @@ title: "Members"
 - [Nathan Huet](https://www.unive.it/data/people/29085331) (Ca' Foscari University of Venice)
 - [Amerigo Novaro](https://www.linkedin.com/in/amerigo-novaro-19b3a1285/?originalSubdomain=it) (University of Padua)
 - [Mike Noori](https://sites.google.com/view/mikenoori) (University of Trento)
-- [Carlotta Pacifici](https://www.linkedin.com/in/carlotta-pacifici-a9a240173/?originalSubdomain=it?) (Bocconi University)
+- [Carlotta Pacifici](https://pacica.github.io) (University of Padua)
 - [Massimo Ricci](https://www.unibo.it/sitoweb/massimo.ricci10) (University of Bologna)
 - [Matteo Schiavone](https://www.stat.unipd.it/en/en/en/en/en/en/en/en/en/en/en/ricerca/matteo-schiavone) (University of Padua)
 - [Emilia Siviero](https://emiliasiv.github.io/) (Ca' Foscari University of Venice)

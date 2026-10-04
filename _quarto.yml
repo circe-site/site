@@ -6,6 +6,7 @@ project:
 
 website:
   title: "CIRCE"
+  site-url: https://circe-site.github.io/site/
   search: false
   navbar:
     logo: "images/circe_logo_final.jpg"
