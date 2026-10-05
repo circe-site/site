@@ -42,4 +42,4 @@ School instructors: [Simone A. Padoan](https://www.unibocconi.it/en/faculty/simo
 </div>
 ```
 
-{{< pdf ../assets/CIRCE2027_v2.pdf renderer=pdfjs >}}
+{{< pdf ../assets/CIRCE2027_v2.pdf width=100% height=600 >}}
