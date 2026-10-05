@@ -1,6 +1,8 @@
 ---
 title: "First CIRCE School - Padova"
 description: "Theory, Methods and Applications in Extreme Value Analysis"
+resources:
+  - ../assets/CIRCE2027_v2.pdf
 meeting-date: "2027-01-25"
 categories: [CIRCE]
 format:
@@ -17,8 +19,27 @@ format:
 
 School instructors: [Simone A. Padoan](https://www.unibocconi.it/en/faculty/simone-padoan), [Stefano Rizzelli](https://homes.stat.unipd.it/stefanorizzelli/en/home-2), [Carlo Gaetan](https://www.unive.it/data/people/5591383)
 
-More information coming soon. 
+<!-- More information coming soon. -->
 
 **Application**: those interested in taking part in the school are required to fill in the [application form](https://docs.google.com/forms/d/e/1FAIpQLSe3RRZ7Ev1vGsuQNd8t3TFSjwAzpQAdXTmRMnvu97WzND3TuQ/viewform?usp=dialog) by 30 October 2026. 
 
 **Contact:** Send an email to <stefano.rizzelli@unipd.it> if you want to join.
+
+```{=html}
+<div style="margin: 1.5rem 0; border: 1px solid #d0d0d0; border-left: 5px solid #555; border-radius: 4px; overflow: hidden;">
+  <div style="background: #e5e5e5; color: #222; padding: 8px 12px; font-weight: 600;">
+    <strong>School programme now available</strong>
+  </div>
+  <div style="background: #f7f7f7; color: #222; padding: 12px;">
+    <p style="margin: 0;">View the programme below or 
+    <a href="../assets/CIRCE2027_v2.pdf"
+       download="CIRCE2027_programme.pdf"
+       style="display: inline-block; background: #222; color: #fff; padding: 12px 18px; text-decoration: none; font-weight: 600;">
+      Download PDF
+    </a>
+    </p>
+  </div>
+</div>
+```
+
+{{< pdf ../assets/CIRCE2027_v2.pdf renderer=pdfjs >}}
